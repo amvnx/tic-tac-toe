@@ -1,3 +1,4 @@
+# pygame verstion of tic tac toe
 import pygame as pg 
 import sys 
 import time 
